@@ -1,1 +1,1 @@
-Pure JS front-end project from ilovecoding.org course.
+Pure HTML and CSS front-end project from ilovecoding.org course.
